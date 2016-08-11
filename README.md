@@ -117,6 +117,9 @@ Install [DB Browser for SQLite](http://sqlitebrowser.org/), which is a free tool
 
 For each of the following exercises, provide the appropriate query. Yes, even the ones that are expressed in the form of questions. Everything from class and the [Sqlite Documentation](http://www.sqlite.org/) is fair game.
 
+![ERD For Chinook Version 1.1-1.3](https://github.com/ashwoodaa/chinook-ashwoodaa/blob/master/ChinookDatabaseSchema1.1.png)
+
+
 1. `non_usa_customers.sql`: Provide a query showing Customers (just their full names, customer ID and country) who are not in the US.
 1. `brazil_customers.sql`: Provide a query only showing the Customers from Brazil.
 1. `brazil_customers_invoices.sql`: Provide a query showing the Invoices of customers who are from Brazil. The resultant table should show the customer's full name, Invoice ID, Date of the invoice and billing country.
